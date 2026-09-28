@@ -1,3 +1,10 @@
+## [1.415.0](https://github.com/juspay/xyne-spaces/compare/v1.414.3...v1.415.0) (2026-09-28)
+
+
+### Features
+
+* onboarding experience ([#2329](https://github.com/juspay/xyne-spaces/issues/2329)) ([c92ac86](https://github.com/juspay/xyne-spaces/commit/c92ac86701f697146f8104ce7bac85bb74e8cc89))
+
 ## [1.414.3](https://github.com/juspay/xyne-spaces/compare/v1.414.2...v1.414.3) (2026-09-28)
 
 
