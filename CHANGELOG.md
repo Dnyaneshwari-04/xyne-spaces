@@ -1,3 +1,10 @@
+## [1.414.3](https://github.com/juspay/xyne-spaces/compare/v1.414.2...v1.414.3) (2026-09-28)
+
+
+### Bug Fixes
+
+* speed up WhatsApp runs and send interim findings while the agent works ([#2375](https://github.com/juspay/xyne-spaces/issues/2375)) ([7d45b54](https://github.com/juspay/xyne-spaces/commit/7d45b54f98450ced10ff6693d830a60aae0eab4b))
+
 ## [1.414.2](https://github.com/juspay/xyne-spaces/compare/v1.414.1...v1.414.2) (2026-09-28)
 
 
