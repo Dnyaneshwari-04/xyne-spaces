@@ -1,3 +1,11 @@
+## [1.410.1](https://github.com/juspay/xyne-spaces/compare/v1.410.0...v1.410.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* add starts-with matching to automation content filters ([#2349](https://github.com/juspay/xyne-spaces/issues/2349)) ([3dfbe5a](https://github.com/juspay/xyne-spaces/commit/3dfbe5a6771c33e8b5c680a004ae641256075d73))
+* custom tools are loadable ([#2327](https://github.com/juspay/xyne-spaces/issues/2327)) ([9567e59](https://github.com/juspay/xyne-spaces/commit/9567e593ac8ca01c06c9ea2c7b0e0ff64b089f42))
+
 ## [1.410.0](https://github.com/juspay/xyne-spaces/compare/v1.409.0...v1.410.0) (2026-09-28)
 
 
