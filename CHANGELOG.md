@@ -1,3 +1,15 @@
+## [1.409.0](https://github.com/juspay/xyne-spaces/compare/v1.408.0...v1.409.0) (2026-09-28)
+
+
+### Features
+
+* message keyboard navigation ([#2178](https://github.com/juspay/xyne-spaces/issues/2178)) ([b882002](https://github.com/juspay/xyne-spaces/commit/b88200248fb65ecd9fe6086390278bd54044155f))
+
+
+### Bug Fixes
+
+* cross workspace message links ([#2245](https://github.com/juspay/xyne-spaces/issues/2245)) ([4325891](https://github.com/juspay/xyne-spaces/commit/432589157cb016277e8cf67222a71ab057ba3743))
+
 ## [1.408.0](https://github.com/juspay/xyne-spaces/compare/v1.407.1...v1.408.0) (2026-09-28)
 
 
