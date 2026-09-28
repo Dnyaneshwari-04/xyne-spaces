@@ -1,3 +1,10 @@
+## [1.413.0](https://github.com/juspay/xyne-spaces/compare/v1.412.0...v1.413.0) (2026-09-28)
+
+
+### Features
+
+* fix electron menu crash and add renderer crash recovery ([#2302](https://github.com/juspay/xyne-spaces/issues/2302)) ([10e82b4](https://github.com/juspay/xyne-spaces/commit/10e82b4faf545406af9db65923201ce063fed199))
+
 ## [1.412.0](https://github.com/juspay/xyne-spaces/compare/v1.411.0...v1.412.0) (2026-09-28)
 
 
