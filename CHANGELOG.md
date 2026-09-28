@@ -1,3 +1,10 @@
+## [1.412.0](https://github.com/juspay/xyne-spaces/compare/v1.411.0...v1.412.0) (2026-09-28)
+
+
+### Features
+
+* Jev pre-check for Verify Responses ([#2362](https://github.com/juspay/xyne-spaces/issues/2362)) ([315a12c](https://github.com/juspay/xyne-spaces/commit/315a12c7fd1eb53ff99436cb2265f83fd7dc70b6))
+
 ## [1.411.0](https://github.com/juspay/xyne-spaces/compare/v1.410.4...v1.411.0) (2026-09-28)
 
 
