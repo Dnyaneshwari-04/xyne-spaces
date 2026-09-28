@@ -1,3 +1,10 @@
+## [1.414.1](https://github.com/juspay/xyne-spaces/compare/v1.414.0...v1.414.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* link to /chat/dir so notification clicks don't flash 'Redirecting…' ([#2358](https://github.com/juspay/xyne-spaces/issues/2358)) ([dc255f7](https://github.com/juspay/xyne-spaces/commit/dc255f734b34a270a40b7eb4d54ca1778521004e))
+
 ## [1.414.0](https://github.com/juspay/xyne-spaces/compare/v1.413.1...v1.414.0) (2026-09-28)
 
 
