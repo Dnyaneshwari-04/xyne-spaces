@@ -1,3 +1,12 @@
+## [1.414.2](https://github.com/juspay/xyne-spaces/compare/v1.414.1...v1.414.2) (2026-09-28)
+
+
+### Bug Fixes
+
+* emit full avatar URLs from claw spaces-tools and stop cookieless avatar 401s in desk-report view ([#2295](https://github.com/juspay/xyne-spaces/issues/2295)) ([05533f0](https://github.com/juspay/xyne-spaces/commit/05533f09d579d8edf5cbaba8bb5cc154e4cc1c88))
+* inline authenticated images in sandboxed iframes and stop gating session on localStorage user_id ([#2294](https://github.com/juspay/xyne-spaces/issues/2294)) ([0d44eab](https://github.com/juspay/xyne-spaces/commit/0d44eabd988dec2face6a1e07ecdabeae0359eeb))
+* narrow electron 401 interceptor to auth endpoints with cookies and await cookie clear ([#2293](https://github.com/juspay/xyne-spaces/issues/2293)) ([e109664](https://github.com/juspay/xyne-spaces/commit/e109664ef81eef84db5d79b5eeca9e4e1e70cf27))
+
 ## [1.414.1](https://github.com/juspay/xyne-spaces/compare/v1.414.0...v1.414.1) (2026-09-28)
 
 
