@@ -1,3 +1,10 @@
+## [1.413.1](https://github.com/juspay/xyne-spaces/compare/v1.413.0...v1.413.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* Icons replace for overall calls ([#2239](https://github.com/juspay/xyne-spaces/issues/2239)) ([ec9e6e5](https://github.com/juspay/xyne-spaces/commit/ec9e6e50d8e9f092220cc6a3d7793148a4eadc27))
+
 ## [1.413.0](https://github.com/juspay/xyne-spaces/compare/v1.412.0...v1.413.0) (2026-09-28)
 
 
