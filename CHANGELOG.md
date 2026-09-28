@@ -1,3 +1,15 @@
+## [1.411.0](https://github.com/juspay/xyne-spaces/compare/v1.410.4...v1.411.0) (2026-09-28)
+
+
+### Features
+
+* Add connector routes to claw, backend and sdk ([#2297](https://github.com/juspay/xyne-spaces/issues/2297)) ([7b1c776](https://github.com/juspay/xyne-spaces/commit/7b1c776044adc196725bba95577d2e6f0cd30c1f))
+
+
+### Bug Fixes
+
+* cap concurrent automation runs so human requests keep platform-model capacity ([#2360](https://github.com/juspay/xyne-spaces/issues/2360)) ([7706261](https://github.com/juspay/xyne-spaces/commit/77062618e6ec9a36be7b573720b95168a0d410b9))
+
 ## [1.410.4](https://github.com/juspay/xyne-spaces/compare/v1.410.3...v1.410.4) (2026-09-28)
 
 ## [1.410.3](https://github.com/juspay/xyne-spaces/compare/v1.410.2...v1.410.3) (2026-09-28)
