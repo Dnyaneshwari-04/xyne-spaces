@@ -1,3 +1,10 @@
+## [1.410.3](https://github.com/juspay/xyne-spaces/compare/v1.410.2...v1.410.3) (2026-09-28)
+
+
+### Bug Fixes
+
+* round the label chip in the create-ticket modal ([#2356](https://github.com/juspay/xyne-spaces/issues/2356)) ([5de4713](https://github.com/juspay/xyne-spaces/commit/5de47138556337d45525af226de65fe8cbde18d7))
+
 ## [1.410.2](https://github.com/juspay/xyne-spaces/compare/v1.410.1...v1.410.2) (2026-09-28)
 
 
