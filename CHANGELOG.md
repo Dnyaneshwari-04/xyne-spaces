@@ -1,3 +1,16 @@
+## [1.410.0](https://github.com/juspay/xyne-spaces/compare/v1.409.0...v1.410.0) (2026-09-28)
+
+
+### Features
+
+* add internal API to run user deactivation cleanup ([#2343](https://github.com/juspay/xyne-spaces/issues/2343)) ([0c8447a](https://github.com/juspay/xyne-spaces/commit/0c8447a924affd77833e52452bea8ca0eb9e28ed))
+
+
+### Bug Fixes
+
+* moving interactive txs blocks to one place ([#2307](https://github.com/juspay/xyne-spaces/issues/2307)) ([9c3902b](https://github.com/juspay/xyne-spaces/commit/9c3902b4856652963d43bfc6fd3e4561d7919126))
+* search all project labels in the ticket details picker ([#2344](https://github.com/juspay/xyne-spaces/issues/2344)) ([14fb33d](https://github.com/juspay/xyne-spaces/commit/14fb33d1db13cfc0b38b58846feef7f69fc8c5e1))
+
 ## [1.409.0](https://github.com/juspay/xyne-spaces/compare/v1.408.0...v1.409.0) (2026-09-28)
 
 
