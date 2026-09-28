@@ -1,3 +1,10 @@
+## [1.407.1](https://github.com/juspay/xyne-spaces/compare/v1.407.0...v1.407.1) (2026-09-28)
+
+
+### Bug Fixes
+
+* simplify desk mail back button to plain browser back ([#2324](https://github.com/juspay/xyne-spaces/issues/2324)) ([0c29e69](https://github.com/juspay/xyne-spaces/commit/0c29e690abd4833c12729c24d9c6911f9c21c397))
+
 ## [1.407.0](https://github.com/juspay/xyne-spaces/compare/v1.406.0...v1.407.0) (2026-09-26)
 
 
